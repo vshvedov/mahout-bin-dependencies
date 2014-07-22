@@ -1,0 +1,2 @@
+#!/bin/bash
+exec "/usr/local/Cellar/mahout/0.9/libexec/bin/mahout" "$@"
